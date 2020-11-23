@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\bin\Debug\Azure Autotests.exe.config
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\bin\Debug\Azure Autotests.exe
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\bin\Debug\Azure Autotests.pdb
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\bin\Debug\WebDriver.dll
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\bin\Debug\WebDriver.xml
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\obj\Debug\Azure Autotests.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\obj\Debug\Azure Autotests.csproj.CopyComplete
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\obj\Debug\Azure Autotests.exe
+C:\Users\user\source\repos\Azure Autotests\Azure Autotests\obj\Debug\Azure Autotests.pdb
